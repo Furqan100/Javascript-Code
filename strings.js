@@ -1,5 +1,8 @@
 let a ="Hellofurqanlateef";
 let b ="Furqan"
+// const n = new String()
+console.log(n)
+
 console.log(`${a} my dear ${b}`)
 console.log(a.length)
 console.log( a.toUpperCase());
